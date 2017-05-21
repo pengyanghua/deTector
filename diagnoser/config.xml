@@ -1,0 +1,17 @@
+<config>
+controller='100.1.0.1:8180'
+diagnoser='100.1.0.1:9090'
+pinger_listen_port=7071
+responder_listen_port=7070
+server_1='10.0.0.2'
+server_2='10.0.1.2'
+server_3='10.1.0.2'
+server_4='10.1.1.2'
+server_5='10.2.0.2'
+server_6='10.2.1.2'
+server_7='10.3.0.2'
+server_8='10.3.1.2'
+interval=0.1
+time_cyc=60
+sys_choice=1
+</config>
